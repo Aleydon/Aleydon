@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p align='center'>
-  :computer:  :earth_americas: A front-end web developer from São Paulo, Brazil.  :earth_americas: :computer: 
+  :computer:  :earth_americas: from São Paulo, Brazil.  :earth_americas: :computer: 
 </p>
 
 
