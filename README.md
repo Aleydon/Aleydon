@@ -33,9 +33,9 @@
     <strong>Databases & ORMs:</strong><br>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
     <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" />
     <img src="https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=white" />
-    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   </p>
   <p align="center">
     <strong>Tools:</strong><br>
@@ -47,16 +47,23 @@
 </p>
 
 <p align="center">
-  <h3>📊 GitHub Stats</h3>
+  <h3 align="center">📊 GitHub Stats</h3>
+  <div align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=aleydon&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <br />
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleydon&layout=compact&theme=dark" width="350"></a>
+  </div>
 </p>
 
+<br />
+
 <p align="center">
-  <h3>🤝 Connect with me</h3>
-  <a href="https://linkedin.com/in/robertoaleydon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <h3 align="center">🤝 Connect with me</h3>
+  <div align="center">
+  <a href="https://www.linkedin.com/in/roberto-venancio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aleydonroberto@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <!-- Add more social links as needed, e.g., Twitter, personal website -->
+  </div>
 </p>
 
 <!--
