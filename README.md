@@ -47,24 +47,13 @@
 
 <p align="center">
   <h3 align="center">📊 GitHub Stats</h3>
-  <div align="center">
+  <div>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=aleydon&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  <br />
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleydon&layout=compact&theme=dark" width="350"></a>
   </div>
 </p>
 
 <br />
-
-<p align="center">
-  <h3 align="center">🤝 Connect with me</h3>
-  <div align="center">
-  <a href="https://www.linkedin.com/in/roberto-venancio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aleydonroberto@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- Add more social links as needed, e.g., Twitter, personal website -->
-  </div>
-</p>
-
 <!--
   Future improvements ideas:
   - Add a "Currently working on" section, possibly updated via GitHub Actions.
