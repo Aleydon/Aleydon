@@ -45,18 +45,3 @@
   </p>
 </p>
 
-<p align="center">
-  <h3 align="center">📊 GitHub Stats</h3>
-  <div>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=aleydon&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleydon&layout=compact&theme=dark" width="350"></a>
-  </div>
-</p>
-
-<br />
-<!--
-  Future improvements ideas:
-  - Add a "Currently working on" section, possibly updated via GitHub Actions.
-  - Add a "Fun fact" or "Quote" section.
-  - Explore more dynamic badges or animations using external services if desired.
--->
